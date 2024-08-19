@@ -73,6 +73,7 @@ String combinedPhoneNumber = ' ${phonecode}  ${phoneController.text}';
           phoneNumber: completenumber,
           restriction: "unrestricted",
           platform: platformType,
+          
           verification: "unverified",
           uid: id,
           user: "notdeleted",
