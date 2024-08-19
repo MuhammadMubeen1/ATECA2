@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "658569548112",
+    "project_id": "ateca-employee-portal",
+    "storage_bucket": "ateca-employee-portal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658569548112:android:9c35a197ca57c81b239c55",
+        "android_client_info": {
+          "package_name": "com.AetcaEmployeePortal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDErd52ALyaFKBkiO9DyHLahCK1aV_gcTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
